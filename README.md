@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>- 🔭 I’m currently working on Progressio<br>- 🌱 Also learning Java, Amazon Web Services, and Data Structures<br>- 👯 I'm a developer volunteer at Hack for LA<br>- 📫 How to reach me: mariapaula.reeves@gmail.com<br>- 😄 Pronouns: She/her<br>- ⚡ Fun fact: I speak three languages: Português, English, and Français.
+<br>- 🔭 👯 I'm currently a Software Developer Intern at FolioPhotonics <br>- 🌱 Also learning Java and Amazon Web Services<br>- <br>- 📫 How to reach me: mariapaula.reeves@gmail.com<br>- 😄 Pronouns: She/her<br>- ⚡ Fun fact: I speak three languages: Português, English, and Français.
 
 
 ## 🌐 Socials:
